@@ -13,9 +13,9 @@ From April 2019 to March 2022, changes to ROR data happened in collaboration wit
 
 GRID announced the sunset of its public data offering in [July 2022](https://ror.org/blog/2021-07-12-ror-grid-the-way-forward/) and published its final data release in Sept 2021. ROR published a corresponding data release (2021-09-23-ror-data.zip) in Sept 2021. Both releases contained the same set of organizations, with GRID and ROR IDs assigned to all.
 
-Beginning with its March 2022 release, ROR is curated independently from GRID. Semantic versioning beginning with v1.0 has been added to reflect this departure from GRID, however, the data structure has not changed. From March 2022 onward, data release are versioned as follows:
+Beginning with its March 2022 release, ROR is curated independently from GRID. Semantic versioning beginning with v1.0 has been added to reflect this departure from GRID, however, the data structure has not changed. From March 2022 onward, data releases are versioned as follows:
 
-- **Minor versions (ex 1.1, 1.2, 1.3):** Contain changes to data, such as a new records and updates to exiting records. No changes to the data model/structure.
+- **Minor versions (ex 1.1, 1.2, 1.3):** Contain changes to data, such as a new records and updates to existing records. No changes to the data model/structure.
 - **Patch versions (ex 1.0.1):** Used infrequently to correct errors in a release. No changes to the data model/structure.
 - **Major versions (ex 1.x, 2.x, 3.x):** Contains changes to data model/structure, as well as the data itself. Major versions will be released with significant advance notice.
 
