@@ -21,4 +21,4 @@ Beginning with its Mar 2022 release, ROR is curated independently from GRID. Sem
 
 ## Support
 
-For help using ROR data, visit the [ROR support site](https://ror.readme.io) or post in the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users)
+For help using ROR data, visit the [ROR support site](https://ror.readme.io) or post in the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-tech)
